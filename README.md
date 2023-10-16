@@ -1,6 +1,6 @@
-# calculator
+# Profile Page in Flutter
 
-A new Flutter project.
+A simple profile page created in Flutter made to teach 50+ college students
 
 ## Getting Started
 
